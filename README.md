@@ -8,7 +8,7 @@ You will lose if all lives run out.
 
 After colliding with an enemy, you return to the center of the screen and become invulnerable for a few seconds.
 
-> [!INFO]\
+> [!NOTE]\
 > You can turn on a mode where you can eat a smaller enemy and grow in size yourself.
 
 > [!WARNING]\
